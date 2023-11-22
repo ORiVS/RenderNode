@@ -4,9 +4,9 @@ require('dotenv').config();
 // Database
 const sequelize = new Sequelize(
     process.env.DATABASE_URL,
-  'cloud_zu5l',
-    'cloud_zu5l_user',
-    'oSRlyDx5vzXaNF3QChvwEKmajH2f9rIs',
+ // 'cloud_zu5l',
+   // 'cloud_zu5l_user',
+    //'oSRlyDx5vzXaNF3QChvwEKmajH2f9rIs',
 
   {
       host: 'dpg-clesbnt3qkas73b04rc0-a',
